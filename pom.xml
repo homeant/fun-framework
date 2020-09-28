@@ -11,6 +11,9 @@
 		<module>fun-core</module>
 		<module>fun-common</module>
 		<module>fun-model-define</module>
+		<module>fun-dynamic-thread-pool</module>
+        <module>fun-dynamic-thread-pool-starter</module>
+		<module>fun-dynamic-thread-pool-spring-boot-starter</module>
 	</modules>
 	<packaging>pom</packaging>
 
